@@ -1,2 +1,4 @@
 class Dog 
-end 
+
+def name = (dog_name)
+  @this_dogs
